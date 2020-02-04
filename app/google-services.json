@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657545890249",
+    "firebase_url": "https://daruratkelitih.firebaseio.com",
+    "project_id": "daruratkelitih",
+    "storage_bucket": "daruratkelitih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657545890249:android:7f382bd5b5b03818108018",
+        "android_client_info": {
+          "package_name": "com.example.daruratkelitih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657545890249-2kmeas5fgdfi16gl0ovj1g64ce738e1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daruratkelitih",
+            "certificate_hash": "b3d22135eff6d673791af1029255ce1724e7d5b5"
+          }
+        },
+        {
+          "client_id": "657545890249-u477albs398dn64omkhng89at91afq6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSqPa0A8Lt51IpG3LBgTh6DbiE9H-wgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657545890249-u477albs398dn64omkhng89at91afq6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

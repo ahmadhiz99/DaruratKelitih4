@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DaruratKelitih</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_location_permission">Aktifkan</string>
+    <string name="text_location_permission">Mohon Nyalakan Permission</string>
+    <string name="ok">OK</string>
+<!--    <string name="gps_disabled_message">disable?</string>-->
+
+
+</resources>
